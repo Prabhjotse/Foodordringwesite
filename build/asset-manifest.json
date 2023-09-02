@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.69412cad.css",
+    "main.js": "/static/js/main.83301291.js",
+    "static/media/about.jpg": "/static/media/about.756882330f75c882625a.jpg",
+    "static/media/rajasthani.jpg": "/static/media/rajasthani.98c296cd6c6efd693838.jpg",
+    "static/media/gujarati.jpg": "/static/media/gujarati.27b7fcb6c0fd07d1675c.jpg",
+    "static/media/Chole.jpg": "/static/media/Chole.396953dece304b665a22.jpg",
+    "static/media/dosa.jpg": "/static/media/dosa.17a4379fed9c0476db3e.jpg",
+    "static/media/banner.jpeg": "/static/media/banner.78b61edc63036733d49b.jpeg",
+    "static/media/idli.jpg": "/static/media/idli.227b13136fbbdfb42cf2.jpg",
+    "static/media/logo.png": "/static/media/logo.bb55a487514b920a0fda.png",
+    "static/media/paneer.jpg": "/static/media/paneer.0129e85dcc234d0e67a9.jpg",
+    "index.html": "/index.html",
+    "main.69412cad.css.map": "/static/css/main.69412cad.css.map",
+    "main.83301291.js.map": "/static/js/main.83301291.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69412cad.css",
+    "static/js/main.83301291.js"
+  ]
+}
